@@ -1,0 +1,87 @@
+[
+  {
+    "value": "1",
+    "group": "A",
+    "text": "Accountant"
+  },
+  {
+    "value": "2",
+    "group": "A",
+    "text": "Architect"
+  },
+  {
+    "value": "3",
+    "group": "A",
+    "text": "Artist"
+  },
+  {
+    "value": "4",
+    "group": "C",
+    "text": "Chef"
+  },
+  {
+    "value": "5",
+    "group": "C",
+    "text": "Consultant"
+  },
+  {
+    "value": "6",
+    "group": "D",
+    "text": "Doctor"
+  },
+  {
+    "value": "7",
+    "group": "E",
+    "text": "Engineer"
+  },
+  {
+    "value": "8",
+    "group": "L",
+    "text": "Lawyer"
+  },
+  {
+    "value": "9",
+    "group": "M",
+    "text": "Mechanic"
+  },
+  {
+    "value": "10",
+    "group": "P",
+    "text": "Pharmacist"
+  },
+  {
+    "value": "11",
+    "group": "S",
+    "text": "Scientist"
+  },
+  {
+    "value": "12",
+    "group": "S",
+    "text": "Software Developer"
+  },
+  {
+    "value": "13",
+    "group": "S",
+    "text": "Statistician"
+  },
+  {
+    "value": "14",
+    "group": "T",
+    "text": "Teacher"
+  },
+  {
+    "value": "15",
+    "group": "T",
+    "text": "Technologist"
+  },
+  {
+    "value": "16",
+    "group": "V",
+    "text": "Veterinarian"
+  },
+  {
+    "value": "17",
+    "group": "O",
+    "text": "Other"
+  }
+]
