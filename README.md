@@ -7,6 +7,7 @@ An API for a questionnaire application[https://github.com/alicedevgit/ERXQuestWe
 - Json
 - MVC
 - LinQ
+- c# .Net
 
 # Database
 To manage data whitin this project, I use Entity Framework Core connected SQL Server  and you could use Database Creating Script under path: DB > ERXSQLScript
