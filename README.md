@@ -14,7 +14,7 @@ To manage data whitin this project, I use Entity Framework Core connected SQL Se
 This script also included inserting script for initial data.
 
 * As this is data relational, so if you would see data dictionary, please ask from me later.
-** I put connection string for SQL Server in "appsettings.json" file, so you could edit it there.
+* I put connection string for SQL Server in "appsettings.json" file, so you could edit it there.
 
 # Other Data Soures
 For some multi chioces which could be a huge data such as Countries and Occupation, I put them under folder: "Sources" as the same format in Json file.
